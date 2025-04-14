@@ -4,16 +4,6 @@
 
 Life is a journey, and sometimes it's nice to visualize it in numbers! This app tracks various aspects of your life through interactive, real-time counters. From the number of days you've been alive to the hours spent on hobbies, **Your Life in Numbers** helps you put your existence into perspective (in a fun way)!
 
-## 🚀 Features
-
-- **Live Counters:**  
-  Track your age in days, the number of hours you've spent sleeping, or the number of cups of coffee you've had in your lifetime.
-  
-- **Milestones:**  
-  Highlight key milestones like “days since your birthday” or “time spent working on a project” with animated progress bars.
-
-- **Customizable Cards:**  
-  Add your own unique life stats to track. From how many books you've read to the time spent on specific hobbies — the possibilities are endless!
 
 ## 🛠 How to Contribute
 
@@ -25,7 +15,7 @@ We believe that everyone’s life stats are unique! If you have an idea for a co
    git clone https://github.com/your-username/life-stats.git
    ```
 3. **Create a new card:**  
-   Each card tracks a different stat. Create your own by adding a new `card` component in the `cards/` directory, and make sure to include an animated counter or a milestone tracker.
+   Each card tracks a different stat. Create your own by adding a new `card` in the `cards` <div>.
    
 4. **Update the HTML/JS:**  
    Add a new stat to the JavaScript to keep it interactive and fun. Feel free to get creative with animations, styling, and the stats you choose!
@@ -42,7 +32,7 @@ We believe that everyone’s life stats are unique! If you have an idea for a co
 
 ## 💬 Feedback and Ideas
 
-We’d love to hear from you! If you have suggestions for additional stats or improvements, feel free to open an issue or submit a pull request.
+I would love to hear from you! If you have suggestions for additional stats or improvements, feel free to open an issue or submit a pull request.
 
 ---
 
