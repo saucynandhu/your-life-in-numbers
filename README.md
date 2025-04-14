@@ -53,4 +53,4 @@ Made with ❤️ and lots of coffee ☕.
 
 ---
 
-This should inspire people to contribute by creating their own cards! Let me know if you'd like any changes or additions to this.
+
