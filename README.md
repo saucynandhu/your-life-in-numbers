@@ -12,7 +12,7 @@ We believe that everyone’s life stats are unique! If you have an idea for a co
 1. **Fork the repo** to your GitHub account.
 2. **Clone the repo** locally to work on it:
    ```bash
-   git clone https://github.com/your-username/life-stats.git
+   git clone https://github.com/saucynandhu/your-life-in-numbers.git
    ```
 3. **Create a new card:**  
    Each card tracks a different stat. Create your own by adding a new `card` in the `cards` <div>.
