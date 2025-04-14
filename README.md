@@ -1,5 +1,4 @@
 # YOUR LIFE IN NUMBERS
-Got it! Here’s a **README.md** for your **Life Stats** app that encourages others to contribute by adding their own life stat cards. I’ll keep it clean and motivating:
 
 ---
 
