@@ -26,7 +26,7 @@ We believe that everyone’s life stats are unique! If you have an idea for a co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saucynandhu/life-stats.git
+   git clone https://github.com/saucynandhu/your-life-in-numbers.git
    ```
 2. Open `index.html` in your browser to see your stats in action!
 
